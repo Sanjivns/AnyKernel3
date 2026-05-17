@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Fkmodded
+kernel.string=E404MOD
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=alioth
 device.name2=aliothin
-supported.versions=11 - 15
+supported.versions=11 - 16
 supported.patchlevels=
 '; } # end properties
 
