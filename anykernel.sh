@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=E404MOD
+kernel.string=RVkernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
